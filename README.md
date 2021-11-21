@@ -3,9 +3,8 @@ Project 4 of the Robotics Software Engineering Nanodegree Program at Udacity
 
 ## Outcomes -->
 
-- Learnt the basics of and coded (in C++) Kalman filters, extended Kalman filters and the Monte-Carlo localization algorithm in lab exercises
-- Utilized the ROS **AMCL (Adaptive Monte-Carlo Localization)** package to accurately localize a mobile robot inside a map of my apartment in the Gazebo simulation environment
-- Used the Tele-operation package to drive the mobile robot and over time **tuned the AMCL algorithm parameters** to achieve fast localization
+- Learnt to implement SLAM using ROS, C++ and Gazebo. Covered SLAM concepts such as occupancy **grid mapping, GraphSLAM and FastSLAM**
+- Deployed **RTAB-Map** and used the tele-operation package to drive the mobile robot and build 2D and 3D maps of the environment 
 
 ## Directory structure -->
 
