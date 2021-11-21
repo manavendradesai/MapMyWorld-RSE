@@ -37,5 +37,5 @@ Project 4 of the Robotics Software Engineering Nanodegree Program at Udacity
     │   ├── README.md                  
     │   ├── package.xml                # package info
     │   ├── teleop_twist_keyboard.py   # package info
-    └── Media                          # screenshots of the world and the mobile robot in Gazebo, 3D map of the world and the 2D                                            occupancy grid map generated using SLAM 
+    └── Media                          # screenshots of the world and the mobile robot in Gazebo, 3D map of the world and the 2D occupancy grid map generated using SLAM 
     
