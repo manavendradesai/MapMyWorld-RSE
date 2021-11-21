@@ -15,10 +15,7 @@ Project 4 of the Robotics Software Engineering Nanodegree Program at Udacity
     │   │   ├── robot_descriptionGoChaseIt.launch
     │   │   ├── worldGoChaseIt.launch
     │   │   ├── mapping.launch         # runs the nodes of the RTAB-Map package
-    │   │   ├── teleop.launch
-    │   ├── maps                       # folder containing the Gazebo world map and metadata
-    │   │   ├── home.yaml
-    │   │   ├── map.pgm
+    │   │   ├── teleop.launch          # runs the node for the teleoperation package used to move the mobile robot
     │   ├── model                      # folder containing the Gazebo world model
     │   │   ├── homeGoChaseIt
     │   │   │   ├── model.config
@@ -40,5 +37,5 @@ Project 4 of the Robotics Software Engineering Nanodegree Program at Udacity
     │   ├── README.md                  
     │   ├── package.xml                # package info
     │   ├── teleop_twist_keyboard.py   # package info
-    ├── media                          # screenshots of the world and the robot
-    └── Localization_screenshots       # screenshots showing progression in localizing the mobile robot
+    └── Media                          # screenshots of the world and the mobile robot in Gazebo, 3D map of the world and the 2D                                            occupancy grid map generated using SLAM 
+    
