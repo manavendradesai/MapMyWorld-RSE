@@ -14,6 +14,8 @@ Project 4 of the Robotics Software Engineering Nanodegree Program at Udacity
     │   │   ├── amcl.launch
     │   │   ├── robot_descriptionGoChaseIt.launch
     │   │   ├── worldGoChaseIt.launch
+    │   │   ├── mapping.launch         # runs the nodes of the RTAB-Map package
+    │   │   ├── teleop.launch
     │   ├── maps                       # folder containing the Gazebo world map and metadata
     │   │   ├── home.yaml
     │   │   ├── map.pgm
