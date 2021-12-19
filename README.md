@@ -1,5 +1,8 @@
 # MapMyWorld-RSE
-Project 4 of the Robotics Software Engineering Nanodegree Program at Udacity
+
+## Description -->
+
+Project 4 of the Robotics Software Engineering Nanodegree Program at Udacity. The objective was to create a 2D occupancy grid map and a 3D octomap of an environment in Gazebo by interfacing the mobile robot with **RTAB-Map** through ROS nodes written in C++.
 
 ## Outcomes -->
 
